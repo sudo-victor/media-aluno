@@ -1,0 +1,16 @@
+/home/viktor/www/dio/cursos/intro-dot-net/Revisao/bin/Debug/net5.0/Revisao
+/home/viktor/www/dio/cursos/intro-dot-net/Revisao/bin/Debug/net5.0/Revisao.deps.json
+/home/viktor/www/dio/cursos/intro-dot-net/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.json
+/home/viktor/www/dio/cursos/intro-dot-net/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.dev.json
+/home/viktor/www/dio/cursos/intro-dot-net/Revisao/bin/Debug/net5.0/Revisao.dll
+/home/viktor/www/dio/cursos/intro-dot-net/Revisao/bin/Debug/net5.0/ref/Revisao.dll
+/home/viktor/www/dio/cursos/intro-dot-net/Revisao/bin/Debug/net5.0/Revisao.pdb
+/home/viktor/www/dio/cursos/intro-dot-net/Revisao/obj/Debug/net5.0/Revisao.csproj.AssemblyReference.cache
+/home/viktor/www/dio/cursos/intro-dot-net/Revisao/obj/Debug/net5.0/Revisao.GeneratedMSBuildEditorConfig.editorconfig
+/home/viktor/www/dio/cursos/intro-dot-net/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfoInputs.cache
+/home/viktor/www/dio/cursos/intro-dot-net/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfo.cs
+/home/viktor/www/dio/cursos/intro-dot-net/Revisao/obj/Debug/net5.0/Revisao.csproj.CoreCompileInputs.cache
+/home/viktor/www/dio/cursos/intro-dot-net/Revisao/obj/Debug/net5.0/Revisao.dll
+/home/viktor/www/dio/cursos/intro-dot-net/Revisao/obj/Debug/net5.0/ref/Revisao.dll
+/home/viktor/www/dio/cursos/intro-dot-net/Revisao/obj/Debug/net5.0/Revisao.pdb
+/home/viktor/www/dio/cursos/intro-dot-net/Revisao/obj/Debug/net5.0/Revisao.genruntimeconfig.cache
